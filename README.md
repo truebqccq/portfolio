@@ -7,5 +7,5 @@ Including...
  - Web Based Card Game
  - Google Calendar API
  - Minecraft Datapacks
- - Unity Game
+ - Unity Games
  - and much more!
