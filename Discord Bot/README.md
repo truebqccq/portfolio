@@ -1,0 +1,4 @@
+# Discord Bot
+During my senior year of high school, I created a discord bot to help in my friend's discord servers (and to annoy my friends). Through this process, I learned how to code in python and use its libraries. Some of the bot's functionalities included censoring messages with regex, spam pinging, and send cute animal pictures. 
+
+The version of the bot that is included in the portfolio is a logger that keeps track of message. The other version has too much personal information included in the code, so I am not going to post it here. In the future, I may expand on the bot, and move all personal details into a separate file, so I can post the source code here. 
