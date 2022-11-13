@@ -10,6 +10,7 @@ Leaderboard Positions:
 - 794 Seventeen Points: #97
 - 796 A Grand Shuffle: #67
 - 809 Rational Recurrence Relation: #67
+- 816 Shortest Distance Among Points: #42
 
 Completed (Problems 100+):
 - 151 Paper sheets of standard sizes: an expected-value problem
